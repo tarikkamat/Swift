@@ -27,3 +27,15 @@ var ageInt: Int = 23
 // String -> "John"
 // Char -> "X"
 
+var productId:Int = 1001
+var productName:String = "Apple Watch 7"
+var productStock:Int = 20
+var productPrice:Double = 189.90
+var productBrand:String = "Apple Inc."
+
+print("Product Id: \(productId)")
+print("Product Name: \(productName)")
+print("Product Stock: \(productStock)")
+print("Product Price: \(productPrice)")
+print("Product Brand: \(productBrand)")
+
